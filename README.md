@@ -1,2 +1,2 @@
 # CourseProject
-Coursera Assignments
+Assignments
